@@ -1,2 +1,2 @@
-START_SECTION_DAILY_COMMIT:readme-info
-END_SECTION_DAILY_COMMIT:readme-info
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
